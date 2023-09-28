@@ -10,6 +10,7 @@ Outcome of this course should be the skills of design and implementation of vari
 | 2. | Binary trees |
 | 3. | Graph algorithms |
 | 4. | BFS |
+| 5. | Sorting algorithms |
 
 | Command | Description |
 | --- | --- |
