@@ -1,7 +1,7 @@
 <h2> Content</h2>
 
 
-**| 1. | Double Linked List - with getPrevious(), getNext() methods |**
+| 1. | Double Linked List - with getPrevious(), getNext() methods |
 | -- | ------------- |
 | 2. | Linked list - with basic getNext() |
 | 3. | Queue_array - using circular buffer |
