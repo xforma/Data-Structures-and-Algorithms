@@ -5,8 +5,9 @@ Outcome of this course should be the skills of design and implementation of vari
 
 <h2> Content</h2>
 
-| 1. | Linear Structures |
+|  |  |
 | -- | ------------- |
+| 1. | Linear Data Structures |
 | 2. | Binary trees |
 | 3. | Graph algorithms |
 | 4. | BFS |
