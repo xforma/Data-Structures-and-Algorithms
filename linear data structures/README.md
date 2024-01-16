@@ -1,7 +1,7 @@
 <h2> Content</h2>
 
 
-| | |
+| | Table of Content |
 | -- | ------------- |
 | 1. | Double Linked List - with getPrevious(), getNext() methods |
 | 2. | Linked list - with basic getNext() |
